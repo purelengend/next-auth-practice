@@ -1,0 +1,86 @@
+export const PRODUCTS_MOCK = [
+  {
+    id: 'ID01',
+    name: 'Fiddle Leaf Fig',
+    price: 45,
+    img: 'https://i.postimg.cc/zXM9pHGg/product-1.png',
+  },
+  {
+    id: 'ID02',
+    name: 'Snake Plant',
+    price: 30,
+    img: 'https://i.postimg.cc/855HqwyP/product-2.png',
+  },
+  {
+    id: 'ID03',
+    name: 'Monstera Deliciosa',
+    price: 60,
+    img: 'https://i.postimg.cc/mD5wRMq3/product-3.png',
+  },
+  {
+    id: 'ID04',
+    name: 'Jade Plant',
+    price: 25,
+    img: 'https://i.postimg.cc/8cfbCcQ2/product-4.jpg',
+  },
+  {
+    id: 'ID05',
+    name: 'Golden Pothos',
+    price: 20,
+    img: 'https://i.postimg.cc/Lhd3gSmn/product-5.jpg',
+  },
+  {
+    id: 'ID06',
+    name: 'Spider Plant',
+    price: 15,
+    img: 'https://i.postimg.cc/ZYXGxyRy/product-6.jpg',
+  },
+  {
+    id: 'ID07',
+    name: 'ZZ Plant',
+    price: 35,
+    img: 'https://i.postimg.cc/BZ8WFCq0/product-7.jpg',
+  },
+  {
+    id: 'ID08',
+    name: 'Aloe Vera',
+    price: 18,
+    img: 'https://i.postimg.cc/kX8k1X6Y/product-8.jpg',
+  },
+  {
+    id: 'ID09',
+    name: 'Chinese Money Plant',
+    price: 28,
+    img: 'https://i.postimg.cc/mrZJgYdK/product-9.jpg',
+  },
+  {
+    id: 'ID10',
+    name: 'Peace Lily',
+    price: 40,
+    img: 'https://i.postimg.cc/jSbBG0yx/product-10.jpg',
+  },
+  {
+    id: 'ID11',
+    name: 'Bamboo Palm',
+    price: 50,
+    img: 'https://i.postimg.cc/T3JBx7cr/product-11.jpg',
+  },
+  {
+    id: 'ID12',
+    name: 'English Ivy',
+    price: 22,
+    img: 'https://i.postimg.cc/mrdqzPJk/product-12.jpg',
+  },
+  {
+    id: 'ID13',
+    name: 'Rubber Plant',
+    price: 38,
+    img: 'https://i.postimg.cc/KzRWnZhN/product-13.jpg',
+  },
+  {
+    id: 'ID14',
+    name: 'Boston Fern',
+    price: 26,
+    img: 'https://i.postimg.cc/tTwMkLXH/product-14.jpg',
+  },
+];
